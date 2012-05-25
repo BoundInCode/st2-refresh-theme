@@ -1,5 +1,5 @@
 # Refresh Theme
-![Refresh Theme](https://github.com/Boundincode/st2-pseudo-osx-theme/raw/master/screenshot.png)
+![Refresh Theme](https://github.com/Boundincode/st2-refresh-theme/raw/master/screenshot.png)
 
 This is my fork of Raik's Pseudo OSX Theme.  I really only changed some pngs and made the tabs more compact.
 I made the theme to complement my colorscheme, also named "refresh," which can be downloaded [here](https://gist.github.com/1657493).
